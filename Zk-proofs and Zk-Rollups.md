@@ -1,9 +1,9 @@
 # What is a zk-proof?
 
-A zero-knowledge proof is basically a way for me to prove I know something — without telling you what I know, or how I know it — and yet, somehow, you still believe me.  
+A zero-knowledge proof is basically a way for me to prove I know something without telling you what I know, or how I know it and yet, somehow, you still believe me.  
 Sounds like a nightmare for someone with trust issues, right?
 
-You're absolutely right. And since we’re being honest — I DO have trust issues. So of course, I asked a lot of questions.  
+You're absolutely right. And since we’re being honest I DO have trust issues. So of course, I asked a lot of questions.  
 Here’s what I found:
 
 ## How a Zero-Knowledge Proof Works
